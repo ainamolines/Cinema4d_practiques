@@ -2,9 +2,14 @@
 ## p1 
 [Quan tu vas ella torna](p1_ainamolines.gif)
 ## p2
+[Xaloc](p2_ainamolines.gif)
 ## p3
+[Gir](p3_ainamolines.gif)
+[Gir Personal](p3_ainamolines_personal.gif)
 ## p4
+[Pàgines](p4_ainamolines.gif)
 ## p5
+[No és no](p5_ainamolines.gif)
 ## p6
 ## p7
 [Queda't a casa](p7_ainamolines.gif)
