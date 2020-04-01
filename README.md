@@ -8,4 +8,4 @@
 ## p6
 ## p7
 ## p8
-[Coronavirus Festival] (p8_ainamolines.jpg)
+[Coronavirus Festival](p8_ainamolines.jpg)
