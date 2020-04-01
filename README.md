@@ -7,3 +7,5 @@
 ## p5
 ## p6
 ## p7
+## p8
+[Coronavirus Festival] (p8_ainamolines.jpg)
