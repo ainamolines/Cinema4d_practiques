@@ -15,3 +15,6 @@
 [Queda't a casa](p7_ainamolines.gif)
 ## p8
 [Coronavirus Festival](p8_ainamolines.jpg)
+## p9
+[Mac, pedra i planta](p9_ainamolines.jpg)
+
