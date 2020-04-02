@@ -17,4 +17,7 @@
 [Coronavirus Festival](p8_ainamolines.jpg)
 ## p9
 [Mac, pedra i planta](p9_ainamolines.jpg)
+## p10
+[Esbós](boceto_totem_01_ainamolines)
+
 
