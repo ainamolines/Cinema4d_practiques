@@ -19,6 +19,6 @@
 [Mac, pedra i planta](p9_ainamolines.jpg)
 ## p10
 [Classe](p10_ainamolines.jpg)
-[Esbós](boceto_totem_01_ainamolines)
+[Esbós](boceto_totem_01_ainamolines.jpg)
 
 
