@@ -4,8 +4,8 @@
 ## p2
 [Xaloc](p2_ainamolines.gif)
 ## p3
-[Gir](p3_ainamolines.gif)
-[Gir Personal](p3_ainamolines_personal.gif)
+- [Gir](p3_ainamolines.gif)
+- [Gir Personal](p3_ainamolines_personal.gif)
 ## p4
 [Pàgines](p4_ainamolines.gif)
 ## p5
