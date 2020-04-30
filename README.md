@@ -14,7 +14,8 @@
 ## p7
 [Queda't a casa](p7_ainamolines.gif)
 ## p8
-[Coronavirus Festival](p8_ainamolines.jpg)
+- [Coronavirus Festival](p8_ainamolines.jpg)
+- [Cartel Fiestas de Moros y Cristianos Sports Passion](via_x_300_def2.jpg)
 ## p9
 [Mac, pedra i planta](p9_ainamolines.jpg)
 ## p10
