@@ -18,8 +18,10 @@
 ## p9
 [Mac, pedra i planta](p9_ainamolines.jpg)
 ## p10
-[Classe](p10_ainamolines.jpg)
-[Esbós](boceto_totem_01_ainamolines.jpg)
+- [Classe](p10_ainamolines.jpg)
+- [Esbós totem](boceto_totem_01_ainamolines.jpg)
+- [Totem](totem_ainamolines_02.jpg)
 ## p11
-[Mascota](p11_ainamolines.jpg)
+- [Esbós Mascota](p11_ainamolines.jpg)
+- [Mascota](p11_ainamolines.jpg)
 
