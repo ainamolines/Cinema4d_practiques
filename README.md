@@ -21,7 +21,7 @@
 ## p10
 - [Classe](p10_ainamolines.jpg)
 - [Esbós totem](boceto_totem_01_ainamolines.jpg)
-- [Totem](totem_ainamolines_02.jpg)
+- [Totem](totem_ainamolines.jpg)
 ## p11
 - [Esbós Mascota](p11_esbos_ainamolines.JPG)
 - [Mascota Prova 01](p11_ainamolines.jpg)
