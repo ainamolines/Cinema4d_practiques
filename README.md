@@ -23,7 +23,7 @@
 - [Esbós totem](boceto_totem_01_ainamolines.jpg)
 - [Totem](totem_ainamolines_02.jpg)
 ## p11
-- [Esbós Mascota](p11_ainamolines.jpg)
+- [Esbós Mascota](p11_esbos_ainamolines.JPG)
 - [Mascota Prova 01](p11_ainamolines.jpg)
 - [Mascota Prova 02](p11_02_ainamolines.jpg)
 
